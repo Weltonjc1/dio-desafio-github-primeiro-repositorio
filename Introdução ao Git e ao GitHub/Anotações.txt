@@ -33,6 +33,7 @@ eval $(ssh-agent -s)
 git init -> inicializa um repositório
 git remote -v -> mostra a url
 git add -> stage area
+git push origin mais -> empurra para repositorio remoto
 
 
 Comunidade Online Discord 
