@@ -1,1 +1,38 @@
-teste
+comandos basicos Git
+
+comandos windows
+dir -> listar
+cd -> caminhar entre pastas 
+cls -> limpar terminar
+mkdir -> cria pasta
+del -> 
+rmdir workspace 
+mkdir -> cria pasta S/ Q/
+
+comando git/linux
+ls _> listar
+cd -> caminhar entre pastas 
+clear -> limpar terminal
+rm -rf -> deletar pasta com conteudo
+
+Conceitos
+(arquivos)blobs -> 
+(arvores)trees -> armazenam blob
+commits ->
+tracked e untracked
+tracked 
+unmodified - modified - staged(se preparando pra fazer parte)
+
+Configurações iniciais git
+SSH KEYS
+gerar chave no git bash -> ssh-keygen -t ed25519 -C weltonjc1@hotmail.com
+Copiar Chave gerada e colar no github/settings/SSH and GPG keys
+eval $(ssh-agent -s)
+ 
+
+git init -> inicializa um repositório
+git remote -v -> mostra a url
+git add -> stage area
+
+
+Comunidade Online Discord 
